@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aayush%20Lathi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Builder%20of%20fintech%2C%20blockchain%20%26%20IoT%20systems&descAlignY=55&descSize=16" alt="Aayush Lathi" width="100%" />
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Building+Sentinal+AI+on+Algorand;CubeSat+ADCS+with+reaction+wheels;Shipping+IoT+%2B+ML+for+the+real+world;208+LeetCode+problems+and+counting" alt="Typing SVG" />
   </a>
