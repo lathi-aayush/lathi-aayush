@@ -39,7 +39,9 @@
 
 ---
 
-## Tech Stack I've Worked with
+<div align="center">
+
+## Tech Stack I have worked with
 
 **Languages**
 
@@ -84,6 +86,8 @@
 ![DSA](https://img.shields.io/badge/DSA-1a1a2e?style=flat-square)
 ![System Design](https://img.shields.io/badge/System_Design-0f3460?style=flat-square)
 ![OOP](https://img.shields.io/badge/OOP-16213e?style=flat-square)
+
+</div>
 
 ---
 
@@ -202,16 +206,12 @@ Privacy-preserving AI API marketplace on Base Sepolia — FHE-encrypted balances
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lathi-aayush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lathi-aayush&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
   <br />
 
   <img height="165" src="https://streak-stats.demolab.com?user=lathi-aayush&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=lathi-aayush&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 
 </div>
 
