@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Building+Sentinal+AI+on+Algorand;CubeSat+ADCS+with+reaction+wheels;Shipping+IoT+%2B+ML+for+the+real+world;208+LeetCode+problems+and+counting" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=CubeSat+ADCS+with+reaction+wheels;Shipping+IoT+%2B+ML+for+the+real+world;Built+Sentinal+AI+on+Algorand;208+LeetCode+problems+and+counting" alt="Typing SVG" />
   </a>
 
   <br />
@@ -20,11 +20,6 @@
 
 <!-- LeetCode Stats Card -->
 [![LeetCode Stats](https://leetcard.jacoblin.cool/lathi_aayush?theme=dark)](https://leetcode.com/u/lathi_aayush)
-
-<!--[![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=lathi_aayush)](https://leetcode.com/u/lathi_aayush)-->
-[![LeetCode](https://img.shields.io/badge/LeetCode-lathi__aayush-FFA116?style=for-the-badge&logo=leetcode&logoColor=orange&labelColor=1a1a1a)](https://leetcode.com/u/lathi_aayush)
-
-[![Solved](https://img.shields.io/badge/208_Solved-164_Easy%20·%2043_Medium%20·%201_Hard-FFA116?style=for-the-badge&labelColor=1a1a1a)](https://leetcode.com/u/lathi_aayush)
 
 </div>
 
