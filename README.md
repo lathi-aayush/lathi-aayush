@@ -75,6 +75,7 @@
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+![Autodesk](https://img.shields.io/badge/Autodesk-06B6D4?style=for-the-badge&logo=autodesk&logoColor=white)
 
 **Core**
 
@@ -96,8 +97,9 @@
 
 CubeSat attitude determination & control — reaction-wheel stabilization with MPU6050 / LDR sensing and a modular 3D-printed chassis.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Autodesk](https://img.shields.io/badge/Autodesk-06B6D4?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 <td width="50%">
