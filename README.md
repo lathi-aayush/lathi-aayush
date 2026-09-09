@@ -6,6 +6,7 @@
 
   <br />
 
+  <a href="https://lathiaayush.com"><img src="https://img.shields.io/badge/Portfolio%20Room-lathiaayush.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Room" /></a>
   <a href="https://github.com/lathi-aayush"><img src="https://img.shields.io/badge/GitHub-lathi--aayush-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://leetcode.com/u/lathi_aayush"><img src="https://img.shields.io/badge/LeetCode-lathi__aayush-FFA116?style=for-the-badge&logo=leetcode&logoColor=orange&labelColor=1a1a1a" alt="LeetCode" /></a>
   <a href="https://www.linkedin.com/in/lathiaayush/"><img src="https://img.shields.io/badge/LinkedIn-lathiaayush-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -47,10 +48,17 @@
 
 **Frontend**
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**AI & Agent Systems**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-F55036?style=flat-square)
 
 **Backend / APIs**
 
@@ -93,7 +101,18 @@
 <tr>
 <td width="50%">
 
-### 🛰️ [AarambhSat](https://github.com/lathi-aayush/attitude-determination-control-system-of-cubesat)
+### [Supply Chain Disruption Control Agent](https://github.com/lathi-aayush/Supply-Chain-Disruption-Control-Agent)
+
+Supply-chain disruption recovery simulator & agent control room — turns conflicting supplier, inventory, tracking, and production signals into human-gated, auditable recovery decisions.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![LangChain & LangGraph](https://img.shields.io/badge/LangChain%20%2B%20LangGraph-1C3C3C?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Agent%20Tools-F55036?style=flat-square)
+
+</td>
+<td width="50%">
+
+### [AarambhSat](https://github.com/lathi-aayush/attitude-determination-control-system-of-cubesat)
 
 CubeSat attitude determination & control — reaction-wheel stabilization with MPU6050 / LDR sensing and a modular 3D-printed chassis.
 
@@ -102,9 +121,11 @@ CubeSat attitude determination & control — reaction-wheel stabilization with M
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
-### ⚡ [SentinalAI](https://github.com/lathi-aayush/pay-per-usage-ai-api-access-system-using-algorand)
+### [SentinalAI](https://github.com/lathi-aayush/pay-per-usage-ai-api-access-system-using-algorand)
 
 Pay-per-use AI API marketplace on Algorand — ALGO / x402 micro-payments, Studio agent workflows. Live at [sentinalai.dev](https://sentinalai.dev).
 
@@ -113,11 +134,9 @@ Pay-per-use AI API marketplace on Algorand — ALGO / x402 micro-payments, Studi
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
-### 💪 [Word Workout Generator](https://github.com/lathi-aayush/install-word-workout-generator-app)
+### [Word Workout Generator](https://github.com/lathi-aayush/install-word-workout-generator-app)
 
 One random word becomes your workout — each letter maps to a custom exercise. Flutter + Firebase, with shareable session summaries.
 
@@ -125,9 +144,11 @@ One random word becomes your workout — each letter maps to a custom exercise. 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
-### ♻️ [Sortify](https://github.com/lathi-aayush/ASEP2-Sortify-Machine)
+### [Sortify](https://github.com/lathi-aayush/ASEP2-Sortify-Machine)
 
 IoT + CNN dry-waste classifier add-on — retrofits existing bins, sorts recyclable vs non-recyclable, and gamifies responsible disposal.
 
@@ -136,11 +157,9 @@ IoT + CNN dry-waste classifier add-on — retrofits existing bins, sorts recycla
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
-### 🔐 [Google Authenticator Extension](https://github.com/lathi-aayush/google-authenticator-extension)
+### [Google Authenticator Extension](https://github.com/lathi-aayush/google-authenticator-extension)
 
 Offline Chrome extension for desktop TOTP codes — import Google Authenticator exports, copy codes in one click, zero cloud.
 
@@ -148,9 +167,11 @@ Offline Chrome extension for desktop TOTP codes — import Google Authenticator 
 ![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
-### 🏔️ [GlacierGuard](https://github.com/lathi-aayush/Glacier-Flood-Early-Warning-System-Platform)
+### [GlacierGuard](https://github.com/lathi-aayush/Glacier-Flood-Early-Warning-System-Platform)
 
 Map-first dashboard for glacial-lake outburst flood risk screening — open geospatial signals, per-lake indicators, and prioritisation.
 
@@ -159,11 +180,9 @@ Map-first dashboard for glacial-lake outburst flood risk screening — open geos
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
 </td>
-</tr>
-<tr>
-<td width="50%" colspan="2">
+<td width="50%">
 
-### 🔏 [Fhenix Pay-per-AI API](https://github.com/lathi-aayush/fhenix-enabled-pay-per-ai-api-usage-access-system)
+### [Fhenix Pay-per-AI API](https://github.com/lathi-aayush/fhenix-enabled-pay-per-ai-api-usage-access-system)
 
 Privacy-preserving AI API marketplace on Base Sepolia — FHE-encrypted balances via Fhenix CoFHE, x402 pay-per-call, MetaMask auth.
 
@@ -181,6 +200,7 @@ Privacy-preserving AI API marketplace on Base Sepolia — FHE-encrypted balances
 
 | Repository | Description | Language | Stars |
 |:---|:---|:---|:---:|
+| [Supply-Chain-Disruption-Control-Agent](https://github.com/lathi-aayush/Supply-Chain-Disruption-Control-Agent) | seed42 — supply-chain disruption recovery simulator & agent control room | TypeScript / Next.js | ⭐ 0 |
 | [attitude-determination-control-system-of-cubesat](https://github.com/lathi-aayush/attitude-determination-control-system-of-cubesat) | CubeSat ADCS with reaction wheel + MPU6050 | TypeScript | ⭐ 1 |
 | [pay-per-usage-ai-api-access-system-using-algorand](https://github.com/lathi-aayush/pay-per-usage-ai-api-access-system-using-algorand) | SentinalAI — pay-per-use AI marketplace on Algorand | JavaScript | ⭐ 2 |
 | [install-word-workout-generator-app](https://github.com/lathi-aayush/install-word-workout-generator-app) | Word Workout Generator — fitness from random words | Flutter | ⭐ 2 |
