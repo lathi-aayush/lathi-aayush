@@ -1,0 +1,111 @@
+{
+  "_note": "Edited by hand. update-readme.mjs reads this; GitHub's repo 'About' text is the fallback for repos not listed here.",
+  "user": "lathi-aayush",
+  "leetcodeUser": "lathi_aayush",
+  "typingLines": [
+    "CubeSat ADCS with reaction wheels",
+    "Shipping IoT + ML for the real world",
+    "Built Sentinal AI on Algorand"
+  ],
+  "exclude": [
+    "lathi-aayush",
+    "microservices-final-project"
+  ],
+  "includeForks": [
+    "Supply-Chain-Disruption-Control-Agent"
+  ],
+  "displayNames": {
+    "cross-chain-bridge-exploits-detection": "BridgeSentry",
+    "pay-per-usage-ai-api-access-system-using-algorand": "SentinalAI",
+    "Glacier-Flood-Early-Warning-System-Platform": "GlacierGuard",
+    "campus-sibling": "Campus Sibling",
+    "decentralised-excess-energy-marketplace": "GridLink P2P",
+    "Supply-Chain-Disruption-Control-Agent": "Seed42 Supply Control Room"
+  },
+  "repos": {
+    "Supply-Chain-Disruption-Control-Agent": {
+      "description": "seed42 — supply-chain disruption recovery simulator & agent control room",
+      "language": "TypeScript / Next.js"
+    },
+    "attitude-determination-control-system-of-cubesat": {
+      "description": "CubeSat ADCS with reaction wheel + MPU6050",
+      "language": "TypeScript"
+    },
+    "pay-per-usage-ai-api-access-system-using-algorand": {
+      "description": "SentinalAI — pay-per-use AI marketplace on Algorand",
+      "language": "JavaScript"
+    },
+    "install-word-workout-generator-app": {
+      "description": "Word Workout Generator — fitness from random words",
+      "language": "Flutter"
+    },
+    "ASEP2-Sortify-Machine": {
+      "description": "Sortify — IoT + CNN dry-waste classifier",
+      "language": "C++"
+    },
+    "google-authenticator-extension": {
+      "description": "Offline desktop TOTP Chrome extension",
+      "language": "JavaScript"
+    },
+    "Glacier-Flood-Early-Warning-System-Platform": {
+      "description": "GlacierGuard — GLOF risk screening dashboard",
+      "language": "TypeScript"
+    },
+    "fhenix-enabled-pay-per-ai-api-usage-access-system": {
+      "description": "FHE-encrypted AI API payments via Fhenix",
+      "language": "JavaScript"
+    },
+    "vibe-to-structure-mcp": {
+      "description": "MCP server — vibe ideas → structured projects",
+      "language": "—"
+    },
+    "ASEP1-Auto-Waste-Segregator": {
+      "description": "Auto waste segregator product UI / Sortify precursor",
+      "language": "HTML"
+    },
+    "waste-stats": {
+      "description": "Interactive waste management dashboard for Indian cities",
+      "language": "JavaScript"
+    },
+    "multiprogramming-operating-system": {
+      "description": "Simulated MOS — paging, interrupts, VM execution",
+      "language": "C"
+    },
+    "Operating-System-Codes": {
+      "description": "Operating systems practice codes",
+      "language": "C++"
+    },
+    "PFE-Lab-Answers": {
+      "description": "Python for Engineers lab solutions",
+      "language": "Python"
+    },
+    "AE-Lab-Experiments": {
+      "description": "AE lab experiments collection",
+      "language": "C++"
+    },
+    "Projects-by-Lathi-Aayush": {
+      "description": "Early project showcase site",
+      "language": "HTML"
+    },
+    "campus-sibling": {
+      "description": "Campus Sibling — campus buy / swap / give-away marketplace",
+      "language": "JavaScript / React"
+    },
+    "cross-chain-bridge-exploits-detection": {
+      "description": "BridgeSentry — real-time cross-chain bridge exploit detection",
+      "language": "TypeScript"
+    },
+    "decentralised-excess-energy-marketplace": {
+      "description": "GridLink P2P — peer-to-peer solar energy trading on Algorand",
+      "language": "JavaScript"
+    },
+    "website-attitude-determination-control-system-of-cubesat": {
+      "description": "AarambhSat interactive 3D website + telemetry terminal",
+      "language": "TypeScript"
+    },
+    "dynamic-routine-planner": {
+      "description": "Weekly routine & timetable planner with collision detection",
+      "language": "Python"
+    }
+  }
+}
